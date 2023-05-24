@@ -1,0 +1,4 @@
+1,Eragon,2002,Ficção,Rocco,40.0,50
+2,Eldest,2005,Ficção,Rocco,45.0,50
+3,Brisingr,2008,Ficção,Rocco,50.0,50
+4,Herança,2011,Ficção,Rocco,55.0,50
